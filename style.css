@@ -1,0 +1,19 @@
+#gameArea {
+    position: relative;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+.tile {
+    position: absolute;
+}
+
+#ko {
+    position: absolute;
+}
